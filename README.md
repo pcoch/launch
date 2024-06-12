@@ -1,4 +1,4 @@
-# Time To Value App!
+# Time To Launch App
 
 Use Case: Help merchants migrating to Shopify calculate the benefits of migrating sooner.
 
