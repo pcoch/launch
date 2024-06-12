@@ -1,68 +1,12 @@
-# Welcome to Remix!
+# Time To Value App!
 
-- [Remix Docs](https://remix.run/docs)
-- [Netlify Functions Overview](https://docs.netlify.com/functions/overview)
+Use Case: Help merchants migrating to Shopify calculate the benefits of migrating sooner.
 
-## Netlify Setup
+Easy to use interface to plug in migration start and end dates. Outputs opportunity cost of launching sooner.
 
-1. Install the [Netlify CLI](https://docs.netlify.com/cli/get-started/):
+- SPA with Remix
+- Tailwind CSS
+- Framer Motion for small animations
+- Date-fns to calculate diff between dates
 
-```sh
-npm i -g netlify-cli
-```
-
-If you have previously installed the Netlify CLI, you should update it to the latest version:
-
-```sh
-npm i -g netlify-cli@latest
-```
-
-2. Sign up and log in to Netlify:
-
-```sh
-netlify login
-```
-
-3. Create a new site:
-
-```sh
-netlify init
-```
-
-## Development
-
-Ensure all packages are installed by running:
-
-```sh
-npm install
-```
-
-Run
-
-```sh
-netlify dev
-```
-
-Open up [http://localhost:8888](http://localhost:8888), and you're ready to go!
-
-### Serve your site locally
-
-To serve your site locally in a production-like environment, run
-
-```sh
-netlify serve
-```
-
-Your site will be available at [http://localhost:8888](http://localhost:8888). Note that it will not auto-reload when you make changes.
-
-## Deployment
-
-There are two ways to deploy your app to Netlify, you can either link your app to your git repo and have it auto deploy changes to Netlify, or you can deploy your app manually. If you've followed the setup instructions already, all you need to do is run this:
-
-```sh
-# preview deployment
-netlify deploy --build
-
-# production deployment
-netlify deploy --build --prod
-```
+![Screenshot 2024-06-12 at 5 57 57 PM](https://github.com/pcoch/launch/assets/74082459/6c92fec3-91db-4126-b76b-afdd41e719ce)
