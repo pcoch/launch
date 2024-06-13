@@ -1,5 +1,7 @@
 # Time To Launch App
 
+https://shopifylaunchapp.netlify.app
+
 Use Case: Help merchants migrating to Shopify calculate the benefits of migrating sooner.
 
 Easy to use interface to plug in migration start and end dates. Outputs opportunity cost of launching sooner.
